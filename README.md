@@ -4,7 +4,7 @@
 
 # My Skill
 
-<img src="https://skillicons.dev/icons?itypescript,spabase,react,next,mysql,docker,laravel,php,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript,spabase,react,next,mysql,docker,laravel,php,aws" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
