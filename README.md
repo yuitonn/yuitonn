@@ -1,6 +1,4 @@
 # Developer in Japan
-### 
-#
 
 # My Skill
 
