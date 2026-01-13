@@ -20,16 +20,26 @@ chano [official website!](https://x.gd/Q1QcP)
 
 <br />
 
+## Deploy
+
 Novel https://no-vel.link/
+
+Task Management Application Using the Eisenhower Matrix.
 
 <img width="400" height="253" alt="Novel" src="https://github.com/user-attachments/assets/48a4f6ad-9cf0-4c32-be43-861151fe22c4" />
 
 <br />
+<br />
+<br />
 
 Pallete https://p-allete.com/
 
+Company/task management site for new graduates looking for work.
+
 <img width="400" height="253" alt="Pallete" src="https://github.com/user-attachments/assets/21809f7a-4146-4287-84da-4163c9e78ae3" />
 
+<br />
+<br />
 <br />
 
 ## im developer & composer. 
