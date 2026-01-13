@@ -1,7 +1,7 @@
 ## My Skill
 
 
-<img src="https://skillicons.dev/icons?i=typescript,react,next,mysql,postgresql,docker,laravel,php,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript,react,next,mysql,postgresql,docker,laravel,php,aws" /> <br /> <br />
 
 ## im web developer & composer. 
 
