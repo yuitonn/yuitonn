@@ -1,5 +1,5 @@
-# Developer in Japan👋
-### Feel free to contact me anytime!👍
+# Developer in Japan
+### 
 #
 
 # My Skill
