@@ -5,8 +5,6 @@
 <img src="https://skillicons.dev/icons?i=typescript,react,next,mysql,docker,laravel,php,aws" /> <br /><br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuitonn&show_icons=true&theme=transparent)
-
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
