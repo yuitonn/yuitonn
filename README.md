@@ -5,7 +5,7 @@
 <img src="https://skillicons.dev/icons?i=typescript,react,next,mysql,docker,laravel,php,aws" /> <br /><br />
 
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=<yuitonn>&show_icons=true&locale=en&layout=compact)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=yuitonn&show_icons=true&locale=en&layout=compact)
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
