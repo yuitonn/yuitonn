@@ -3,7 +3,13 @@
 
 <img src="https://skillicons.dev/icons?i=typescript,react,next,mysql,docker,laravel,php,aws" /> <br /><br />
 
+## im web developer & composer. 
 
+Here`s [subscription](https://big-up.style/artists/315216)
+
+![2](https://github.com/user-attachments/assets/22515311-331f-49e2-90fa-bacff00e88eb)
+
+<br />
 
 ## Works
 
@@ -39,15 +45,6 @@ Company/task management site for new graduates looking for work.
 <img width="400" height="253" alt="Pallete" src="https://github.com/user-attachments/assets/21809f7a-4146-4287-84da-4163c9e78ae3" />
 
 <br />
-<br />
-<br />
-
-## im developer & composer. 
-
-Here`s [subscription](https://big-up.style/artists/315216)
-
-![2](https://github.com/user-attachments/assets/22515311-331f-49e2-90fa-bacff00e88eb)
-
 
 
 
