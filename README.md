@@ -40,7 +40,7 @@ Task Management Application Using the Eisenhower Matrix.
 
 Pallete https://p-allete.com/
 
-Company/task management site for new graduates looking for work.
+Company/task management site for new graduates looking for work. (The website is currently down.)
 
 <img width="400" height="253" alt="Pallete" src="https://github.com/user-attachments/assets/21809f7a-4146-4287-84da-4163c9e78ae3" />
 
