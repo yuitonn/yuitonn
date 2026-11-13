@@ -5,7 +5,7 @@
 
 ## im web developer & composer. 
 
-Here`s [subscription](https://big-up.style/artists/315216)  and  [official_web site](https://chano-official.pages.dev/)
+Here`s [subscription](https://big-up.style/artists/315216)  and  [official web site](https://chano-official.pages.dev/)
 
 ![2](https://github.com/user-attachments/assets/22515311-331f-49e2-90fa-bacff00e88eb)
 
